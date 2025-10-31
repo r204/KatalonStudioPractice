@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Variable Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0192ba29-865f-4d07-86fa-12907358e431</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>917759f9-6f8c-4910-a1a1-475d301f466e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Username'</defaultValue>
+      <description></description>
+      <id>917759f9-6f8c-4910-a1a1-475d301f466e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
